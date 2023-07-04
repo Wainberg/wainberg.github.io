@@ -21,13 +21,13 @@ permalink: /people
     <i class="fas fa-envelope fa-fw"></i>&nbsp; <a href="mailto:{{ member.email }}">Email</a><br />
     {% endif %}
     {% if member.twitter %}
-    <i class="fab fa-twitter fa-fw"></i>&nbsp; <a href="https://twitter.com/{{ member.twitter }}" target="_blank">@{{ member.twitter }}</a><br />
+    <i class="fab fa-twitter fa-fw"></i>&nbsp; <a href="https://twitter.com/{{ member.twitter }}">Twitter</a><br />
     {% endif %}
     {% if member.github %}
-    <i class="fab fa-github fa-fw"></i>&nbsp; <a href="https://github.com/{{ member.github }}" target="_blank">{{ member.github }}</a><br />
+    <i class="fab fa-github fa-fw"></i>&nbsp; <a href="https://github.com/{{ member.github }}">Github</a><br />
     {% endif %}
     {% if member.scholar %}
-    <i class="fas fa-book fa-fw"></i>&nbsp; <a href="{{ member.scholar }}" target="_blank">{{ member.title }}</a>
+    <i class="fas fa-book fa-fw"></i>&nbsp; <a href="{{ member.scholar }}">Google Scholar</a>
     {% endif %}
     </p>
 </div>
