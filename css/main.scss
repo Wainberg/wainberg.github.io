@@ -91,6 +91,11 @@ img {
 #picid img { margin: 6px 3px 60px 6px; border-radius:1%; box-shadow: 2px 2px 5px #888888 }
 #gridid .row { margin-bottom: 24px; }
 
+.membertitle {
+  font-size: $font-size-base * 2;
+  line-height: 40px;
+}
+
 /* Carousel */
 .carousel {
   border-radius: 3px 3px 3px 3px;

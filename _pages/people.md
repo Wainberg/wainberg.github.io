@@ -11,11 +11,21 @@ permalink: /people
 {% if member.alumni != true %}
 <div class="col-sm-3-5">
   {% if member.photo %}
+  {% if member.link_to_page %}
+  <a href="{{ member.url }}">
   <img class="img-fluid" src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}">
+  </a>
+  {% else %}
+  <img class="img-fluid" src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}">
+  {% endif %}
   {% endif %}
 </div>
 <div class="col-sm-2-5" style="padding-top: 15px">
+    {% if member.link_to_page %}
+    <a href="{{ member.url }}"><h3>{{ member.title }}</h3></a>
+    {% else %}
     <h3>{{ member.title }}</h3>
+    {% endif %}
     <p>{{ member.info }} <br />
     {% if member.email %}
     <i class="fas fa-envelope fa-fw"></i>&nbsp; <a href="mailto:{{ member.email }}">Email</a><br />
