@@ -1,0 +1,28 @@
+<!-- 
+This site is based on the template (https://github.com/znamlab/znamlab.github.io)
+provided by the Znamenskiy Lab (https://znamlab.org), which is itself largely 
+based on the template (https://github.com/mpa139/allanlab) provided by the Allan 
+lab (http://www.allanlab.org) and includes some code adapted from the website of 
+the Bedford lab (https://bedford.io). It is powered by Jekyll (https://jekyllrb.com) 
+and uses some Bootstrap (http://www.getbootstrap.com), Bootswatch 
+(http://www.bootswatch.com), and Font Awesome(https://fontawesome.com/). The source 
+code is maintained on GitHub (https://github.com/Wainberg/wainberglab.github.io) for 
+version control and is freely available under MIT license. The website is hosted on 
+GitHub Pages (https://pages.github.com/). 
+
+The home page image was generated with Midjourney (https://www.midjourney.com)
+using the prompt "Human brain sprouting multiple DNA double helix --aspect 885:309".
+Each image on the Research page was generated using the corresponding heading as the 
+prompt, with --aspect 4:3.
+-->
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %}</title>
+  <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
+  <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl | prepend: site.url}}">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+<link rel="shortcut icon" type ="image/x-icon" href="{{ site.url }}{{ site.baseurl }}/images/favicon.ico">
+</head>

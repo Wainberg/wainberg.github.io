@@ -1,0 +1,19 @@
+---
+title: "Wainberg Lab"
+layout: textlay
+sitemap: false
+permalink: /research
+---
+# Research
+
+## Expanding the landscape of genetic variants associated with brain diseases
+![]({{ site.url }}{{ site.baseurl }}/images/research/expanding.png){: style="width: 250px; float: right; padding-left: 20px; padding-top: 6px"}
+The past few years have seen a hundred-fold explosion in the number of genetic variants associated with brain diseases. The vast majority are common, single-nucleotide variants (i.e. one-"letter" changes) for well-studied diseases. We plan to expand this landscape by leveraging population-scale biobanks like the [UK Biobank](https://www.ukbiobank.ac.uk/), [All of Us](https://allofus.nih.gov/) and [FinnGen](https://www.finngen.fi/en), alongside disease-specific cohorts like the [Alzheimer's Disease Sequencing Project](https://adsp.niagads.org/). We will focus on understudied classes of variants like rare variants, structural variants, and repeats. We will also explore understudied diseases like fibromyalgia and other "functional disorders", recently highlighted by a top medical journal as [one of medicine’s biggest failures](https://www.bmj.com/content/380/bmj.p221).
+
+## Inferring causal variants, genes and cell types for brain diseases
+![]({{ site.url }}{{ site.baseurl }}/images/research/inferring.png){: style="width: 250px; float: left; padding-right: 20px; padding-top: 6px"}
+Associating a variant with disease is only the first step towards understanding its function. Nearby variants [co-occur](https://www.nature.com/articles/nrg1123) across people (since chromosomes are inherited [in blocks](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4665078)) so many nearby variants may be associ- ated with a disease even if only one is causal. Similarly, [variants may affect the expression of far-away genes](https://www.nejm.org/doi/full/10.1056/nejmoa1502214), so which gene(s) a variant causes disease through is often unclear, and [we](https://www.nature.com/articles/s41588-019-0385-z) and [others](https://academic.oup.com/nar/article/47/1/e3/5103947) have shown that common ways of inferring this have high false positive rates. Finally, brains contain [many types of cells](https://www.nature.com/articles/s41586-021-03950-0), and different variants may cause disease through different cell types. We plan to develop statistical and machine learning models to infer causal variants, genes, and cell types for brain diseases, leveraging how variants relate to genes and cell types (single-cell omics) and how genes relate to each other (biological networks).
+
+## Harnessing the single-cell revolution to find and reverse molecular signatures of brain diseases
+![]({{ site.url }}{{ site.baseurl }}/images/research/harnessing.png){: style="width: 250px; float: right; padding-left: 20px; padding-top: 6px"}
+One of the most exciting new genetic technologies is single-cell omics, which measures biological variables like gene expression in individual cells. This lets us find molecular signatures of a disease in individual brain cell types. In collaboration with [Vilas Menon's](https://www.neurology.columbia.edu/profile/vilas-menon-phd) lab at Columbia, we are co-leading the largest-ever single-cell meta-analysis of Alzheimer's disease, encompassing over 3 million cells across 7 studies. We plan to cross-reference the molecular signatures gleaned from studies like these with single-cell CRISPR screens (e.g. [Perturb-seq](https://www.science.org/doi/10.1126/science.aaz6063)) in brain disease models, to find genes that induce an opposite molecular signature to the disease when perturbed. This approach represents a generalizable strategy for drug discovery.
