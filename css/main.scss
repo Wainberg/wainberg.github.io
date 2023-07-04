@@ -17,6 +17,12 @@ img {
   max-width: 100%;
 }
 
+@media (max-width: 428px) {
+  .navbar {
+    padding-left: 15px;
+  }
+}
+
 .titlebox, h1 {
   display: table-cell;
   vertical-align: middle;
