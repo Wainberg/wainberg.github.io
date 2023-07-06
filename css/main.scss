@@ -9,10 +9,6 @@
 @import "fontawesome/brands.scss";
 @import "fontawesome/solid.scss";
 
-body {
-    padding-top: 65px;
-}
-
 img {
   max-width: 100%;
 }
@@ -26,13 +22,14 @@ img {
 .titlebox, h1 {
   display: table-cell;
   vertical-align: middle;
-  height: 65px;
 }
 
 .bigtitle, h1 {
   font-size: $font-size-base * 2;
   line-height: 40px;
   color: $logo;
+  padding-top: 15px;
+  padding-bottom: 15px;
 }
 
 .navbar-light .navbar-brand,
