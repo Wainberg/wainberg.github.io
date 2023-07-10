@@ -9,7 +9,7 @@ permalink: /join
 
 ![](https://www.utoronto.ca/sites/default/files/vlcsnap-2021-10-25-11h27m42s786-crop.jpg){: style="max-width: 510px; width: min(50%, 510px); float: right; margin-left: 20px; margin-bottom: 10px"}
 We are always interested in taking on postdocs, grad students, and undergrads. 
-<a href="mailto:%6D%2E%77%61%69%6E%62%65%72%67%40%6D%61%69%6C%2E%75%74%6F%72%6F%6E%74%6F%2E%63%61">
+<a href="mailto:%6D%2E%77%61%69%6E%62%65%72%67%40%75%74%6F%72%6F%6E%74%6F%2E%63%61">
 Email Michael</a> a CV and cover email describing your research interests. Postdoc 
 applicants should propose a specific research project, and others are welcome to as well! 
 
