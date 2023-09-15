@@ -8,7 +8,7 @@ permalink: /people
 {% assign index = 1 %}
 <div class="row">
 {% for member in site.categories.people reversed %}
-{% if member.alumni != true %}
+{% if member.collaborator != true %}
 <div class="col-sm-3-5">
   {% if member.photo %}
   {% if member.link_to_page %}
@@ -48,13 +48,12 @@ permalink: /people
 {% assign index = index | plus: 1 %}
 {% endif %}
 {% endfor %}
-<!---
 <div id="gridid" class="col-12">
-<h1 id="former-lab-members">Alumni</h1>
+<h1 id="former-lab-members">Trainee collaborators</h1>
 {% assign index = 1 %}
 <div class="row">
 {% for member in site.categories.people reversed %}
-{% if member.alumni == true %}
+{% if member.collaborator == true %}
 <div class="col-sm-3">
   {% if member.photo %}
   <img class="img-fluid" src="{{ site.url }}{{ site.baseurl }}/images/members/{{ member.photo }}">
@@ -62,7 +61,7 @@ permalink: /people
 </div>
 <div class="col-sm-3 align-self-center">
     <h3>{{ member.title }}</h3>
-    <p>{{ member.info }} <br />
+    <p>{{ member.info }} <br /> {{ member.lab_name }} <br /> {{ member.affiliation }}
     </p>
 </div>
 {% assign index = index | plus: 1 %}
@@ -74,4 +73,3 @@ permalink: /people
 {% endfor %}
 </div>
 </div>
--->
