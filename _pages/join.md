@@ -18,7 +18,7 @@ We offer competitive salaries and generous benefits. We welcome remote postdocs 
 
 ## Grad students
 
-We plan to take on Master's and PhD students through the [Institute of Medical Science](https://ims.utoronto.ca/application-deadlines-and-requirements). Please reach out to Michael before applying.
+We take Master's and PhD students through the [Institute of Medical Science](https://ims.utoronto.ca/application-deadlines-and-requirements). Please reach out to Michael before applying.
 
 ## Undergrads
 
