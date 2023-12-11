@@ -8,7 +8,9 @@ permalink: /join
 # Join us!
 
 ![](https://www.utoronto.ca/sites/default/files/vlcsnap-2021-10-25-11h27m42s786-crop.jpg){: style="max-width: 510px; width: min(50%, 510px); float: right; margin-left: 20px; margin-bottom: 10px"}
-We are always interested in taking on postdocs, grad students, and undergrads. <a href="mailto:%6D%2E%77%61%69%6E%62%65%72%67%40%75%74%6F%72%6F%6E%74%6F%2E%63%61">Email Michael</a> a CV and cover email describing your research interests. Postdoc applicants should propose a specific research project, and others are welcome to as well! Undergrad and grad applicants should send an undergrad transcript (unofficial is fine) and grad transcript, if any.
+We are always interested in taking on postdocs, grad students, and undergrads. <a href="mailto:%6D%2E%77%61%69%6E%62%65%72%67%40%75%74%6F%72%6F%6E%74%6F%2E%63%61">Email Michael</a> a CV and cover email describing your research interests. 
+
+To ensure you receive a response, grad student and postdoc applicants should propose a specific research project that meshes with the work we do in the lab - the more concrete and detailed, the better! Our lab works mainly with public data, so thinking about which dataset(s) you'd use to answer your research questions of interest is key. Undergrad and grad applicants should also send an undergrad transcript (unofficial is fine) and grad transcript, if any.
 
 We encourage applications from a wide range of backgrounds, though strong programming skills are a must! Biology experience is an asset but not a necessity; you can learn on the job. We are extremely open to remote work and flexible working hours.
 
