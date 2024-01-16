@@ -7,7 +7,7 @@ permalink: /people
 <h1>Lab members</h1>
 <div class="row">
 {% for member in site.categories.people reversed %}
-{% if not member.collaborator and not member.alumni %}
+{% if member.collaborator != true and member.alumni != true %}
 <div class="col-sm-3-5">
   {% if member.photo %}
   {% if member.link_to_page %}
@@ -47,7 +47,7 @@ permalink: /people
 <h1>Trainee collaborators</h1>
 <div class="row">
 {% for member in site.categories.people reversed %}
-{% if member.collaborator %}
+{% if member.collaborator == true %}
 <div class="col-sm-3-5">
   {% if member.photo %}
   {% if member.link_to_page %}
@@ -75,7 +75,7 @@ permalink: /people
 <h1>Alumni</h1>
 <div class="row">
 {% for member in site.categories.people reversed %}
-{% if member.alumni %}
+{% if member.alumni == true %}
 <div class="col-sm-3-5">
   {% if member.photo %}
   {% if member.link_to_page %}
