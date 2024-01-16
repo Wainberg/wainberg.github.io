@@ -2,7 +2,7 @@
 layout: member
 title: Isabel Kerrebijn
 photo: Isabel.jpg
-info: Research assistant
+info: PhD student
 email: "%69%73%61%62%65%6C%2E%6B%65%72%72%65%62%69%6A%6E%40%75%74%6F%72%6F%6E%74%6F%2E%63%61"
 github: isabelkerrebijn
 twitter: ikerrebijn
