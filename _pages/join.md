@@ -8,9 +8,9 @@ permalink: /join
 # Join us!
 
 ![](https://www.utoronto.ca/sites/default/files/vlcsnap-2021-10-25-11h27m42s786-crop.jpg){: style="max-width: 510px; width: min(50%, 510px); float: right; margin-left: 20px; margin-bottom: 10px"}
-We are always interested in taking on postdocs, grad students, and undergrads. <a href="mailto:%6D%2E%77%61%69%6E%62%65%72%67%40%75%74%6F%72%6F%6E%74%6F%2E%63%61">Email Michael</a> a CV and cover email describing your research interests. 
+We are always interested in taking on postdocs and grad students. <a href="mailto:%6D%2E%77%61%69%6E%62%65%72%67%40%75%74%6F%72%6F%6E%74%6F%2E%63%61">Email Michael</a> a CV and cover email describing your research interests. We are not currently taking on new undergrads.
 
-To ensure you receive a response, grad student and postdoc applicants should propose a specific research project that meshes with the work we do in the lab - the more concrete and detailed, the better! Our lab works mainly with public data, so thinking about which dataset(s) you'd use to answer your research questions of interest is key. Undergrad and grad applicants should also send an undergrad transcript (unofficial is fine) and grad transcript, if any.
+To ensure you receive a response, applicants should propose a specific research project that meshes with the work we do in the lab - the more concrete and detailed, the better! Our lab works mainly with public data, so thinking about which dataset(s) you'd use to answer your research questions of interest is key. Grad applicants should also send an undergrad transcript (unofficial is fine) and grad transcript, if any.
 
 We encourage applications from a wide range of backgrounds, though strong programming skills are a must! Biology experience is an asset but not a necessity; you can learn on the job. We are extremely open to remote work and flexible working hours.
 
@@ -21,7 +21,3 @@ We offer competitive salaries and generous benefits. We welcome remote postdocs 
 ## Grad students
 
 We take Master's and PhD students through the [Institute of Medical Science](https://ims.utoronto.ca/application-deadlines-and-requirements). Please reach out to Michael before applying.
-
-## Undergrads
-
-We are interested in U of T undergrads looking to take research-based courses. We participate in the [Research Opportunities Program](https://www.artsci.utoronto.ca/current/experiential-learning/research-opportunities/research-opportunities-program), which allows any Arts and Science student to work with any professor for credit through [courses offered by their program or college](https://artsci.calendar.utoronto.ca/search-courses?course_keyword=Research+Opportunity+Program). We also take students from program-specific courses like [BCB330](https://bcb.csb.utoronto.ca/bcb330y-project/overview)/[BCB430](https://bcb.csb.utoronto.ca/bcb430y-project/overview) for Bioinformatics and Computational Biology, [ESC499](https://engineering.calendar.utoronto.ca/course/esc499y1) for Engineering Science, and [HMB496/HMB499](https://www.hmb.utoronto.ca/undergraduate/curriculum-course-info/research-projects-human-biology) for Human Biology. 
