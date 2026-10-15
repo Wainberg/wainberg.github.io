@@ -11,7 +11,7 @@ Welcome to the Wainberg lab!
 </div>
 
 <div class="col-sm-12">
-  <p> We apply statistics, machine learning and other computational approaches to large datasets to learn how genetics causes nervous system diseases like <a href="https://paingenomics.org/">chronic pain</a>. </p>
+  <p> We apply statistics, AI and other computational approaches to large datasets to learn how genetics causes diseases like <a href="https://paingenomics.org/">chronic pain</a>. </p>
   <p> Our overarching goal is to find new drug targets, while developing new ways to do genetic studies and extract meaning from them along the way. </p>
   <p> We are part of the <a href="https://net.lunenfeld.ca/pcphr/">Prosserman Centre for Population Health Research</a> at Mount Sinai Hospital, affiliated with the University of Toronto. </p>
 </div>
