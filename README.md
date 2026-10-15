@@ -14,8 +14,6 @@ Website source code is freely available under MIT License.
 
 The home page image was generated with Midjourney (https://www.midjourney.com)
 using the prompt "Human brain sprouting multiple DNA double helix --aspect 885:309".
-Each image on the Research page was generated using the corresponding heading as the 
-prompt, with --aspect 4:3.
 
 ## Modifying the website
 You can make edits to the website either directly on Github or by cloning the
